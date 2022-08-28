@@ -46,7 +46,7 @@
 <img width=45% height=100% src="https://img.shields.io/badge/-Connect With Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-gatere-615584216/)](https://www.linkedin.com/in/mark-gatere-615584216/"/>
 </a>
 <a href="https://twitter.com/gatere_mark">
-<img width=45% height=100% src="https://img.shields.io/badge/-Follow Me-cyan?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/gatere_mark)](https://twitter.com/gatere_mark"/>
+<img width=45% height=100% src="https://img.shields.io/badge/-Follow Me-cyan?style=for-the-badge&logo=twitter&logoColor=blue&link=https://twitter.com/gatere_mark)](https://twitter.com/gatere_mark"/>
 </a>
 <div align=center>
    <a href="https://github.com/gateremark">
