@@ -54,12 +54,10 @@
    
 <h3 align="center"><a href="https://github.com/Sabyasachi-Seal"><img width=15% alt="Phone" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/wannatalk.svg"/></a></h3>
 <div align=center>
-   <!-- <a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
-      <img align="right" alt="Footer" width=45% src="https://linkedin-github.herokuapp.com/api/render/Sabyasachi%20Seal/Tech%20Enthusiast/Student/Bachelor%20of%20Technology/dark-red/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F36451386%3Fv%3D4" />
-      </a> -->
-   <a href="mailto:iam.sabyasachi.seal@gmail.com" target="_blank">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=iam.sabyasachi.seal@gmail.com" />
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%232CF7E4&center=true&vCenter=true&width=450%&lines=(%2B91)+891-042-7807" />
+  
+   <a href="mailto:mark5gatere@gmail.com" target="_blank">
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=mark5gatere@gmail.com" />
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%232CF7E4&center=true&vCenter=true&width=450%&lines=(%2B91)+254-757-826-724" />
    </a>
 </div>
 <div align=center>
