@@ -8,7 +8,7 @@
 </div>
 <h1 align="center"><a href="https://github.com/gateremark"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/></a> Hy there... gateremark is my name...⚡ I am a...
    <a href="https://github.com/gateremark">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Data+Science+Practitioner;AI+%26+ML+Enthusiast;Cloud+Computing+Enthusiast;Computer+Science+Undergrad;Technical+Blogger" />
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Data+Science+Practitioner;AI+%26+ML+Engineer;Cloud+Computing+Enthusiast;Computer+Science+Undergrad;Technical+Blogger" />
    </a>
 </h1>
 <div align=center>
@@ -57,7 +57,7 @@
   
    <a href="mailto:mark5gatere@gmail.com" target="_blank">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=mark5gatere@gmail.com" />
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%232CF7E4&center=true&vCenter=true&width=450%&lines=(%2B254)757-826-724" />
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%232CF7E4&center=true&vCenter=true&width=450%&lines=(%2B254) 757-826-724" />
    </a>
 </div>
 <div align=center>
