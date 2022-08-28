@@ -43,7 +43,7 @@
 <img width=45% height=100% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fsabyasachi-seal.github.io" />
 </a>
 <a href="https://www.linkedin.com/in/mark-gatere-615584216/">
-<img width=45% height=100% src="https://img.shields.io/badge/-Connect With Me-orange?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-gatere-615584216/)](https://www.linkedin.com/in/mark-gatere-615584216/"/>
+<img width=45% height=100% src="https://img.shields.io/badge/-Connect With Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-gatere-615584216/)](https://www.linkedin.com/in/mark-gatere-615584216/"/>
 </a>
 <div align=center>
    <a href="https://github.com/gateremark">
