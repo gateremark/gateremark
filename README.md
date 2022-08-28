@@ -39,8 +39,8 @@
 <img align="right" width=40% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github.gif">
 </a>
 <br>
-<a href="https://sabyasachi-seal.github.io">
-<img width=45% height=100% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fsabyasachi-seal.github.io" />
+<a href="https://gateremark.netlify.app/">
+<img width=45% height=100% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fgateremark.netlify.app/" />
 </a>
 <a href="https://www.linkedin.com/in/mark-gatere-615584216/">
 <img width=45% height=100% src="https://img.shields.io/badge/-Connect With Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-gatere-615584216/)](https://www.linkedin.com/in/mark-gatere-615584216/"/>
