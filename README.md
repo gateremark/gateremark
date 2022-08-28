@@ -17,7 +17,7 @@
    <h4>
       🌱 I’m mostly interested in:
       <a href="https://github.com/gateremark">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Data+Science;AI+ML;Cloud+Computing" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Data+Science;AI+%26+ML;Cloud+Computing" /></a>
       <br>
       👯 I’m looking to collaborate on:
       <a href="https://github.com/gateremark">
@@ -71,16 +71,10 @@
    <img align="center" alt="Snake" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg" />
    </a>
 </div>
-<!--https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg-->
+
 <div align=center>
    <a href="https://github.com/gateremark">
    <img height=50 width=100% src="divider.gif">
    </a>
 </div>
-<!-- <div align=center>
-   <iframe
-       title="Inline Frame Example"
-       width="100%"
-       src="https://sabyasachi-seal.github.io/ChromeDinoGame/">
-   </iframe>
-   </div> -->
+
