@@ -6,14 +6,14 @@
    <img height=50 width=100% src="divider.gif">
    </a>
 </div>
-<h1 align="center"><a href="https://github.com/gateremark"><img width=7% height=15% src="hello.gif"/></a> Hy there... 
+<h1 align="center"><a href="https://github.com/gateremark"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/hello.gif"/></a> Hy there... 
    <a href="https://github.com/gateremark">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Data+Science+Practitioner;AI+%26+ML+Enthusiast;Cloud+Computing+Enthusiast;Computer+Science+Undergrad;Technical+Blogger" />
    </a>
 </h1>
 <div align=center>
    <a href="https://github.com/gateremark" target="_blank">
-   <img align="right" alt="Coding" width=45% height=100% src="coder2.gif" /></a>
+   <img align="right" alt="Coding" width=45% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder2.gif" /></a>
    <h4>
       🌱 I’m mostly interested in:
       <a href="https://github.com/gateremark">
