@@ -6,9 +6,9 @@
    <img height=50 width=100% src="divider.gif">
    </a>
 </div>
-<h1 align="center"><a href="https://github.com/gateremark"><img width=7% height=15% src="Hi.gif"/></a> Hy there... 
+<h1 align="center"><a href="https://github.com/gateremark"><img width=7% height=15% src="hello.gif"/></a> Hy there... 
    <a href="https://github.com/gateremark">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Cloud+Computing+Enthusiast;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Computer+Science+Undergrad;Tech+Blogger" />
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Data+Science+Practitioner;AI+%26+ML+Enthusiast;Cloud+Computing+Enthusiast;Computer+Science+Undergrad;Technical+Blogger" />
    </a>
 </h1>
 <div align=center>
