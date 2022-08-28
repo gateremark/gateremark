@@ -52,6 +52,10 @@
 <img width=45% height=100% src="https://img.shields.io/badge/-Follow Me-white?style=for-the-badge&logo=twitter&logoColor=blue&link=https://twitter.com/gatere_mark)](https://twitter.com/gatere_mark"/>
 </a>
 
+<a href="https://twitter.com/gatere_mark">
+<img width=45% height=100% src="https://img.shields.io/badge/-Blog Posts-black?style=for-the-badge&logo=medium&logoColor=white&link=https://twitter.com/gatere_mark)](https://twitter.com/gatere_mark"/>
+</a>
+   
 <div align=center>
    <a href="https://github.com/gateremark">
    <img height=50 width=100% src="divider.gif">
