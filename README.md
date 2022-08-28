@@ -30,29 +30,29 @@
 </div>
 
 <div align=center>
-   <a href="https://github.com/Sabyasachi-Seal">
+   <a href="https://github.com/gateremark">
    <img height=50 width=100% src="divider.gif">
    </a>
 </div>
 <div align="left">
-<a href="https://github.com/Sabyasachi-Seal">
+<a href="https://github.com/gateremark">
 <img align="right" width=40% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github.gif">
 </a>
 <br>
 <a href="https://sabyasachi-seal.github.io">
 <img width=45% height=100% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fsabyasachi-seal.github.io" />
 </a>
-<a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
-<img width=45% height=100% src="https://img.shields.io/badge/-Connect With Me-orange?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabyasachi-seal-4461711bb/)](https://www.linkedin.com/in/sabyasachi-seal-4461711bb/"/>
+<a href="https://www.linkedin.com/in/mark-gatere-615584216/">
+<img width=45% height=100% src="https://img.shields.io/badge/-Connect With Me-orange?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-gatere-615584216/)](https://www.linkedin.com/in/mark-gatere-615584216/"/>
 </a>
 <div align=center>
-   <a href="https://github.com/Sabyasachi-Seal">
+   <a href="https://github.com/gateremark">
    <img height=50 width=100% src="divider.gif">
    </a>
 </div>
 
    
-<h3 align="center"><a href="https://github.com/Sabyasachi-Seal"><img width=15% alt="Phone" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/wannatalk.svg"/></a></h3>
+<h3 align="center"><a href="https://github.com/gateremark"><img width=15% alt="Phone" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/wannatalk.svg"/></a></h3>
 <div align=center>
   
    <a href="mailto:mark5gatere@gmail.com" target="_blank">
@@ -61,19 +61,19 @@
    </a>
 </div>
 <div align=center>
-   <a href="https://github.com/Sabyasachi-Seal">
-   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   <a href="https://github.com/gateremark">
+   <img height=50 width=100% src="divider.gif">
    </a>
 </div>
 <div align=center>            
-   <a href="https://github.com/Sabyasachi-Seal">
+   <a href="https://github.com/gateremark">
    <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=a6129c&center=true&vCenter=true&width=450%&lines=Watch+a+Snake+eat+my+contributions+!" />
    <img align="center" alt="Snake" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg" />
    </a>
 </div>
 <!--https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg-->
 <div align=center>
-   <a href="https://github.com/Sabyasachi-Seal">
+   <a href="https://github.com/gateremark">
    <img height=50 width=100% src="divider.gif">
    </a>
 </div>
