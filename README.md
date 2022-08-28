@@ -6,7 +6,7 @@
    <img height=50 width=100% src="divider.gif">
    </a>
 </div>
-<h1 align="center"><a href="https://github.com/gateremark"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/hello.gif"/></a> Hy there... 
+<h1 align="center"><a href="https://github.com/gateremark"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/></a> Hy there... 
    <a href="https://github.com/gateremark">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Data+Science+Practitioner;AI+%26+ML+Enthusiast;Cloud+Computing+Enthusiast;Computer+Science+Undergrad;Technical+Blogger" />
    </a>
@@ -31,7 +31,7 @@
 
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   <img height=50 width=100% src="divider.gif">
    </a>
 </div>
 <div align="left">
@@ -42,25 +42,12 @@
 <a href="https://sabyasachi-seal.github.io">
 <img width=45% height=100% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fsabyasachi-seal.github.io" />
 </a>
-<br>
-<a href="https://github.com/Sabyasachi-Seal">
-<img width=45% height=40% src="http://profileviews.azurewebsites.net/"/>
-</a>
-<br>
 <a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
 <img width=45% height=100% src="https://img.shields.io/badge/-Connect With Me-orange?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabyasachi-seal-4461711bb/)](https://www.linkedin.com/in/sabyasachi-seal-4461711bb/"/>
 </a>
-<br>
-<a href="https://www.qwiklabs.com/public_profiles/e3e3af1f-e2c8-48b5-ae19-175dee7b6ef5">
-<img width=45% height=100% src="https://img.shields.io/badge/-Google Cloud Badges-ff69b4?style=for-the-badge&logo=googlecloud&logoColor=white&link=https://www.qwiklabs.com/public_profiles/e3e3af1f-e2c8-48b5-ae19-175dee7b6ef5"/>
-</a>
-<br>
-<a href="https://docs.microsoft.com/en-us/users/sabyasachiseal-9602/achievements">
-<img width=45% height=100% src="https://img.shields.io/badge/-Azure Trophies-blue?style=for-the-badge&logo=microsoftazure&logoColor=white&link=https://docs.microsoft.com/en-us/users/sabyasachiseal-9602/achievements"/>
-</a>
 <div align=center>
    <a href="https://github.com/Sabyasachi-Seal">
-   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   <img height=50 width=100% src="divider.gif">
    </a>
 </div>
 
