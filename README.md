@@ -32,8 +32,7 @@
    <a href="https://github.com/gateremark">
    <img height=50 width=100% src="divider.gif">
    </a>
-</div>
-<!--   
+</div>  
 <div align="right">
    <a href="https://github.com/Sabyasachi-Seal">
       <h2 align="center"><img alt="Script" width=10% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/script.gif"/>&nbsp;&nbsp;<img width=85% alt="Languages and Tools" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/languagesandtools.svg"/></a>
