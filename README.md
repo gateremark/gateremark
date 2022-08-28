@@ -1,10 +1,10 @@
-### Hi there 👋
+### gateremark is my name...⚡
 
 <!--
 **gateremark/gateremark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 
 - 🔭 I’m currently working on Machine Learning projects using TensorFlow
 - 🌱 I’m currently learning Convolutional Neural Networks
@@ -13,18 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mark5gatere@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
-
+-->
 .........................
 
 <!--Made By gateremark-->
 <div align=center>
-   <a href="https://github.com/Sabyasachi-Seal">
-   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   <a href="https://github.com/gateremark">
+   <img height=50 width=100% src="divider.gif">
    </a>
 </div>
-<h1 align="center"><a href="https://github.com/gateremark"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/></a> I'm a
-   <a href="https://github.com/Sabyasachi-Seal">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Cloud+Computing+Enthusiast;Cybersecurity+Passionate;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Computer+Science+Undergrad;Tech+Blogger" />
+<h1 align="center"><a href="https://github.com/gateremark"><img width=7% height=15% src="Hi.gif"/></a> Hy there... 
+   <a href="https://github.com/gateremark">
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Cloud+Computing+Enthusiast;Data+Science+Practitioner;AI+%26+ML+Enthusiast;Computer+Science+Undergrad;Tech+Blogger" />
    </a>
 </h1>
 <div align=center>
