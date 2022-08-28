@@ -41,7 +41,7 @@
 <br>
 
 <a href="https://gateremark.netlify.app/">
-<img width=45% height=100% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fgateremark.netlify.app/" />
+<img width=45% height=100% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=flat&up_message=RUNNING&url=https%3A%2F%2Fgateremark.netlify.app/" />
 </a>
 
 <a href="https://www.linkedin.com/in/mark-gatere-615584216/">
