@@ -45,7 +45,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/mark-gatere-615584216/">
-<img width=45% height=80% src="https://img.shields.io/badge/-Connect With Me-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-gatere-615584216/)](https://www.linkedin.com/in/mark-gatere-615584216/"/>
+<img width=45% height=80px src="https://img.shields.io/badge/-Connect With Me-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-gatere-615584216/)](https://www.linkedin.com/in/mark-gatere-615584216/"/>
 </a>
 
 <a href="https://twitter.com/gatere_mark">
