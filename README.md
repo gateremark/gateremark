@@ -25,7 +25,7 @@
       <br>
       💬 Talk to me all about:
       <a href="https://github.com/gateremark">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=My+Projects;Upcoming+Events;New+Technology;New+Ideas;Anything+Technical" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=My+Projects;Upcoming+Events;New+Technologies;New+Ideas;Anything+Technical" /></a>
    </h4>
 </div>
 
