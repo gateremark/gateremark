@@ -8,7 +8,7 @@
 </div>
 <h1 align="center"><a href="https://github.com/gateremark"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/></a> Hy there... gateremark is my name...⚡ I am a...
    <a href="https://github.com/gateremark">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Data+Science+Practitioner;Machine+Learning+Engineer;Cloud+Computing+Enthusiast;Information+Tech.+Undergrad;Technical+Blogger" />
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Machine+Learning+Engineer;Cloud+Computing+Enthusiast;Technical+Blogger;Information+Tech.+Undergrad" />
    </a>
 </h1>
 <div align=center>
@@ -17,15 +17,15 @@
    <h4>
       🌱 I’m mostly interested in:
       <a href="https://github.com/gateremark">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Data+Science;AI+%26+ML;Cloud+Computing" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Web+Development;AI+%26+ML;Cloud+Computing" /></a>
       <br>
       👯 I’m looking to collaborate on:
       <a href="https://github.com/gateremark">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Data+Science;AI+Projects;Web+Apps;Cloud+Deployment;Social+Media+Bots" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=AI+Projects;Web+Apps;Cloud+Deployment;Social+Media+Bots" /></a>
       <br>
       💬 Talk to me all about:
       <a href="https://github.com/gateremark">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=My+Projects;Upcoming+Events;New+Technologies;New+Ideas;Anything+Technical" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=My+Projects;Upcoming+Events;New+Technologies;New+Ideas" /></a>
    </h4>
 </div>
 
