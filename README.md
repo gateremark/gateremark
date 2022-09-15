@@ -6,7 +6,7 @@
    <img height=50 width=100% src="static/divider.gif">
    </a>
 </div>
-<h1 align="center"><a href="https://github.com/gateremark"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/></a> Hy there... gateremark is my name...⚡ I am a...
+<h1 align="center"><a href="https://github.com/gateremark"><img width=7% height=15% src="static/Hi.gif"/></a> Hy there... gateremark is my name...⚡ I am a...
    <a href="https://github.com/gateremark">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Machine+Learning+Engineer;Cloud+Computing+Enthusiast;Technical+Blogger;Information+Tech.+Undergrad" />
    </a>
