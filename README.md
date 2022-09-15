@@ -31,7 +31,7 @@
 
 <div align=center>
    <a href="https://github.com/gateremark">
-   <img height=50 width=100% src="divider.gif">
+   <img height=50 width=100% src="static/divider.gif">
    </a>
 </div>
 <div align="left">
@@ -58,7 +58,7 @@
    
 <div align=center>
    <a href="https://github.com/gateremark">
-   <img height=50 width=100% src="divider.gif">
+   <img height=50 width=100% src="static/divider.gif">
    </a>
 </div>
 
@@ -73,7 +73,7 @@
 </div>
 <div align=center>
    <a href="https://github.com/gateremark">
-   <img height=50 width=100% src="divider.gif">
+   <img height=50 width=100% src="static/divider.gif">
    </a>
 </div>
 <div align=center>            
@@ -85,7 +85,7 @@
 
 <div align=center>
    <a href="https://github.com/gateremark">
-   <img height=50 width=100% src="divider.gif">
+   <img height=50 width=100% src="static/divider.gif">
    </a>
 </div>
 
