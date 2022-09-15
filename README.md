@@ -13,7 +13,7 @@
 </h1>
 <div align=center>
    <a href="https://github.com/gateremark" target="_blank">
-   <img align="right" alt="Coding" width=45% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder2.gif" /></a>
+   <img align="right" alt="Coding" width=45% height=100% src="static/coder2.gif" /></a>
    <h4>
       🌱 I’m mostly interested in:
       <a href="https://github.com/gateremark">
@@ -36,7 +36,7 @@
 </div>
 <div align="left">
 <a href="https://github.com/gateremark">
-<img align="right" width=40% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github.gif">
+<img align="right" width=40% alt="Github" src="static/github.gif">
 </a>
 <br>
 
@@ -63,7 +63,7 @@
 </div>
 
    
-<h3 align="center"><a href="https://github.com/gateremark"><img width=15% alt="Phone" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/wannatalk.svg"/></a></h3>
+<h3 align="center"><a href="https://github.com/gateremark"><img width=15% alt="Phone" src="static/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/wannatalk.svg"/></a></h3>
 <div align=center>
   
    <a href="mailto:mark5gatere@gmail.com" target="_blank">
