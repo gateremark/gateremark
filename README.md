@@ -3,7 +3,7 @@
 
 <div align=center>
    <a href="https://github.com/gateremark">
-   <img height=50 width=100% src="divider.gif">
+   <img height=50 width=100% src="static/divider.gif">
    </a>
 </div>
 <h1 align="center"><a href="https://github.com/gateremark"><img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/></a> Hy there... gateremark is my name...⚡ I am a...
