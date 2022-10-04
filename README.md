@@ -63,7 +63,7 @@
 </div>
 
    
-<h3 align="center"><a href="https://github.com/gateremark"><img width=15% alt="Phone" src="static/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/wannatalk.svg"/></a></h3>
+<h3 align="center"><a href="https://github.com/gateremark"><img width=15% alt="Phone" src="static/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="static/wannatalk.svg"/></a></h3>
 <div align=center>
   
    <a href="mailto:mark5gatere@gmail.com" target="_blank">
@@ -79,7 +79,7 @@
 <div align=center>            
    <a href="https://github.com/gateremark">
    <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=a6129c&center=true&vCenter=true&width=450%&lines=Watch+a+Snake+eat+my+contributions+!" />
-   <img align="center" alt="Snake" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg" />
+   <img align="center" alt="Snake" width=100% src="static/github-snake.svg" />
    </a>
 </div>
 
