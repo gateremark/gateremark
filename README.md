@@ -54,8 +54,8 @@
      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
    <br>
-          <a align=center href="https://github.com/gateremark">
-              <img height=10 width=10% src="static/divider.gif">
+          <a href="https://github.com/gateremark">
+              <img height=20 width=10% src="static/divider.gif">
           </a>
    <br>
      <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp;&nbsp;
