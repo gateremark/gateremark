@@ -74,21 +74,23 @@
 </a>
 <br>
 
-<a href="https://gateremark.netlify.app/">
-<img width=45% height=100% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Monzo&style=flat&up_message=RUNNING&url=https%3A%2F%2Fgateremark.netlify.app/" />
+<p>
+  <a href="https://gateremark.netlify.app/">
+<img width=15% height=30% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Monzo&style=flat&up_message=RUNNING&url=https%3A%2F%2Fgateremark.netlify.app/" />
 </a>
 
 <a href="https://www.linkedin.com/in/mark-gatere-615584216/">
-<img width=45% height=120% src="https://img.shields.io/badge/-Connect With Me-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-gatere-615584216/)](https://www.linkedin.com/in/mark-gatere-615584216/"/>
+<img width=15% height=30% src="https://img.shields.io/badge/-Connect With Me-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-gatere-615584216/)](https://www.linkedin.com/in/mark-gatere-615584216/"/>
 </a>
 
 <a href="https://twitter.com/gatere_mark">
-<img width=45% height=100% src="https://img.shields.io/badge/-Follow Me-white?style=flat&logo=twitter&logoColor=blue&link=https://twitter.com/gatere_mark)](https://twitter.com/gatere_mark"/>
+<img width=15% height=30% src="https://img.shields.io/badge/-Follow Me-white?style=flat&logo=twitter&logoColor=blue&link=https://twitter.com/gatere_mark)](https://twitter.com/gatere_mark"/>
 </a>
 
 <a href="https://devlibrary.withgoogle.com/authors/gateremark">
-<img width=45% height=100% src="https://img.shields.io/badge/-Blog Posts-black?style=flat&logo=medium&logoColor=white&link=https://devlibrary.withgoogle.com/authors/gateremark)](https://devlibrary.withgoogle.com/authors/gateremark"/>
+<img width=15% height=30% src="https://img.shields.io/badge/-Blog Posts-black?style=flat&logo=medium&logoColor=white&link=https://devlibrary.withgoogle.com/authors/gateremark)](https://devlibrary.withgoogle.com/authors/gateremark"/>
 </a>
+</p>
    
 <div align=center>
    <a href="https://github.com/gateremark">
