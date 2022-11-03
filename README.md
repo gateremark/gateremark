@@ -130,7 +130,7 @@
    <a href="mailto:mark5gatere@gmail.com" target="_blank">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=mark5gatere@gmail.com" />
    </a>
-   <a href="https://wa.me/+254757826724?text=Hey%20gateremark,%20I%20%20Got%20your%20contact%20from%20GitHub." target="_blank"><img src="https://img.shields.io/badge/whatsapp-%4fce5d.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://wa.me/+254757826724?text=Hey%20gateremark,%20I%20Got%20your%20contact%20from%20GitHub." target="_blank"><img src="https://img.shields.io/badge/whatsapp-%4fce5d.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <div align=center>
    <a href="https://github.com/gateremark">
