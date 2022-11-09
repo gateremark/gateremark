@@ -90,7 +90,7 @@
 
 <p>
   <a href="https://gateremark.netlify.app/" target="_blank">
-<img width=30% height=60% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Monzo&style=flat&up_message=RUNNING&url=https%3A%2F%2Fgateremark.netlify.app/" />
+<img width=30% height=60% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Monzo&style=flat&up_message=In%20Development&url=https%3A%2F%2Fgateremark.netlify.app/" />
 </a>
    
    <br>
