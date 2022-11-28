@@ -82,11 +82,12 @@
    </a>
 </div>
 
+<!-- 
 <div align="left">
 <a href="https://github.com/gateremark">
 <img align="right" width=40% alt="Github" src="static/github.gif">
 </a>
-<br>
+<br> -->
 
 <p>
   <a href="https://gateremark.netlify.app/" target="_blank">
