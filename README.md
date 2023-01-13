@@ -131,8 +131,10 @@
               <img height=20 width=10% src="static/divider.gif">
           </a>
    <a href="mailto:mark5gatere@gmail.com" target="_blank">
+   <div>
    <img align="left" width=50% height=50 src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=mark5gatere@gmail.com" />
    </a>
+   </div>
     <a href="https://github.com/gateremark">
               <img height=20 width=10% src="static/divider.gif">
           </a>
