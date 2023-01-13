@@ -95,14 +95,10 @@
 </a>
    
    <br>
-   <br>
-   <br>
    
 <a href="https://www.linkedin.com/in/mark-gatere-615584216/" target="_blank">
 <img width=25% height=50% src="https://img.shields.io/badge/-Connect With Me-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-gatere-615584216/)](https://www.linkedin.com/in/mark-gatere-615584216/"/>
 </a>
-   <br>
-   <br>
    <br>
    
 <a href="https://twitter.com/gatere_mark" target="_blank">
@@ -110,18 +106,14 @@
 </a>
    
    <br>
-   <br>
-   <br>
    
 <a href="https://devlibrary.withgoogle.com/authors/gateremark" target="_blank">
 <img width=25% height=50% src="https://img.shields.io/badge/-Blog Posts-black?style=flat&logo=medium&logoColor=white&link=https://devlibrary.withgoogle.com/authors/gateremark)](https://devlibrary.withgoogle.com/authors/gateremark"/>
    </a>
    
    <br>
-   <br>
-   <br>
    
-<a href="https://wa.me/+254757826724?text=Hey%20gateremark,%20I%20got%20your%20contact%20from%20GitHub.%20Looking%20forward%20to%20connecting%20with%20you." target="_blank"><img src="https://img.shields.io/badge/whatsapp-%4fce5d.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/+254757826724?text=Hey%20gateremark,%20I%20got%20your%20contact%20from%20GitHub.%20Looking%20forward%20to%20connecting%20with%20you." target="_blank"><img src="https://img.shields.io/badge/whatsapp-%4fce5d.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
    
 <a href="mailto:mark5gatere@gmail.com?text=Hey%20gateremark,%20I%20got%20your%20contact%20from%20GitHub.%20Looking%20forward%20to%20connecting%20with%20you." target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
