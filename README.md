@@ -126,7 +126,7 @@
 
 </p>
    
-<div align="left">
+<div>
     <a align="left" href="https://github.com/gateremark">
               <img height=20 width=10% src="static/divider.gif">
           </a>
