@@ -35,7 +35,7 @@
    </a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools<span>style="text-transform:lowercase;" (Still Learning)</span>:</h3>
 
 <p align="left">
      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
