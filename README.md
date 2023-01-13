@@ -104,7 +104,7 @@
    <br>
    
 <a href="https://twitter.com/gatere_mark" target="_blank">
-<img width=25% height=50% src="https://img.shields.io/badge/-Follow Me-white?style=flat&logo=twitter&logoColor=blue&link=https://twitter.com/gatere_mark)](https://twitter.com/gatere_mark"/>
+<img width=25% height=50% src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/gatere_mark)](https://twitter.com/gatere_mark"/>
 </a>
    
    <br>
