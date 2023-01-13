@@ -122,9 +122,6 @@
    <br>
    
 <a href="https://wa.me/+254757826724?text=Hey%20gateremark,%20I%20got%20your%20contact%20from%20GitHub.%20Looking%20forward%20to%20connecting%20with%20you." target="_blank"><img src="https://img.shields.io/badge/whatsapp-%4fce5d.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-
-   <br>
-   <br>
    
  <a href="mailto:mark5gatere@gmail.com" target="_blank">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=mark5gatere@gmail.com" />
@@ -138,19 +135,11 @@
    </a>
 </div>
 
-   
-<h3 align="center"><a href="https://github.com/gateremark"><img width=15% alt="Phone" src="static/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="static/wannatalk.svg"/></a></h3>
-<div align=center>
-  
-   
- 
-</div>
-
-
+<!--
 <div align=center>
    <a href="https://github.com/gateremark">
    <img align="center" alt="Footer" width=100% src="static/footer.svg"/>
-</div>
+</div> -->
 
 <div align=center>
    <a href="https://github.com/gateremark">
