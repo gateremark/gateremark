@@ -128,7 +128,7 @@
    
 <div>
    <a href="mailto:mark5gatere@gmail.com" target="_blank">
-   <img width=50 height=50 src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=mark5gatere@gmail.com" />
+   <img width=100px height=100px src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=mark5gatere@gmail.com" />
    </a>
 </div>
 
