@@ -98,7 +98,7 @@
    <br>
    
 <a href="https://www.linkedin.com/in/gateremark/" target="_blank">
-<img width=25% height=50% src=" https://img.shields.io/badge/Connect With Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img width=25% height=50% src="https://img.shields.io/badge/Connect With Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gateremark/)](https://www.linkedin.com/in/gateremark/"/>
 </a>
    <br>
    <br>
