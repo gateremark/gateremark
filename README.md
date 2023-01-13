@@ -115,7 +115,6 @@
    </a>
    
    <br>
-   <br>
    
 <a href="https://wa.me/+254757826724?text=Hey%20gateremark,%20I%20got%20your%20contact%20from%20GitHub.%20Looking%20forward%20to%20connecting%20with%20you." target="_blank"><img src="https://img.shields.io/badge/whatsapp-%4fce5d.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
    
