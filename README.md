@@ -126,12 +126,12 @@
 
 </p>
    
-<div align=center>
+<div align="left">
    <a href="https://github.com/gateremark">
    <img height=50 width=50% src="static/divider.gif">
    </a>
    <a href="mailto:mark5gatere@gmail.com" target="_blank">
-   <img align=center width=100% height=50 src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=mark5gatere@gmail.com" />
+   <img width=100% height=50 src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=mark5gatere@gmail.com" />
    </a>
    <a href="https://github.com/gateremark">
    <img height=50 width=50% src="static/divider.gif">
