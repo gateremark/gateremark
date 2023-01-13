@@ -133,6 +133,9 @@
    <a href="https://github.com/gateremark">
    <img height=50 width=100% src="static/divider.gif">
    </a>
+   <a href="https://github.com/gateremark">
+   <img height=50 width=100% src="static/divider.gif">
+   </a>
 </div>
 
 <!--
@@ -141,9 +144,4 @@
    <img align="center" alt="Footer" width=100% src="static/footer.svg"/>
 </div> -->
 
-<div align=center>
-   <a href="https://github.com/gateremark">
-   <img height=50 width=100% src="static/divider.gif">
-   </a>
-</div>
 
