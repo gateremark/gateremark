@@ -98,7 +98,7 @@
    <br>
    
 <a href="https://www.linkedin.com/in/mark-gatere-615584216/" target="_blank">
-<img width=25% height=50% src="https://img.shields.io/badge/-Connect With Me-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-gatere-615584216/)](https://www.linkedin.com/in/mark-gatere-615584216/"/>
+<img width=25% height=50% src=" https://img.shields.io/badge/Connect With Me-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
    <br>
    <br>
