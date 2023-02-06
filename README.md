@@ -110,7 +110,7 @@
    <br>
    <br>
    
-<a href="https://devlibrary.withgoogle.com/authors/gateremark" >
+<a href="https://devlibrary.withgoogle.com/authors/gateremark" target="_blank">
 <img width=20% height=40% src="https://img.shields.io/badge/-Blog Posts-black?style=flat&logo=medium&logoColor=white&link=https://devlibrary.withgoogle.com/authors/gateremark)](https://devlibrary.withgoogle.com/authors/gateremark"/>
    </a>
    
