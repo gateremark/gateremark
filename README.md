@@ -1,34 +1,5 @@
 <!--Made By gateremark-->
 
-
-<div align=center>
-   <a href="https://github.com/gateremark">
-   <img height=50 width=100% src="static/divider.gif">
-   </a>
-</div>
-<h1 align="center"> Hy there... gateremark is my name...⚡ I am a...
-   <a href="https://github.com/gateremark">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Machine+Learning+Engineer;Cloud+Computing+Enthusiast;Technical+Blogger;Information+Tech.+Undergrad" />
-   </a>
-</h1>
-<div align=center>
-   <a href="https://github.com/gateremark" target="_blank">
-   <img align="right" alt="Coding" width=45% height=100% src="static/coder2.gif" /></a>
-   <h4>
-      🌱 I’m mostly interested in:
-      <a href="https://github.com/gateremark">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Web+Development;AI+%26+ML;Cloud+Computing" /></a>
-      <br>
-      👯 I’m looking to collaborate on:
-      <a href="https://github.com/gateremark">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Social+Media+Bots;Web+Apps;AI+Projects;Cloud+Deployment" /></a>
-      <br>
-      💬 Talk to me all about:
-      <a href="https://github.com/gateremark">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=My+Projects;Upcoming+Events;New+Technologies;New+Ideas" /></a>
-   </h4>
-</div>
-
 <div align=center>
    <a href="https://github.com/gateremark">
    <img height=50 width=100% src="static/divider.gif">
@@ -90,8 +61,8 @@
 <br> -->
 
 <p>
-  <a href="https://gateremark.netlify.app/" target="_blank">
-<img width=30% height=60% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Monzo&style=flat&up_message=In%20Development&url=https%3A%2F%2Fgateremark.netlify.app/" />
+  <a href="https://gateremark.vercel.app/" target="_blank">
+<img width=30% height=60% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Monzo&style=flat&up_message=Live&url=https%3A%2F%2Fgateremark.vercel.app/" />
 </a>
    
    <br>
@@ -100,32 +71,3 @@
 <a href="https://www.linkedin.com/in/gateremark/" target="_blank">
 <img width=20% height=40% src="https://img.shields.io/badge/Connect With Me-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gateremark/)](https://www.linkedin.com/in/gateremark/"/>
 </a>
-   <br>
-   <br>
-   
-<a href="https://twitter.com/gatere_mark" target="_blank">
-<img width=20% height=40% src="https://img.shields.io/badge/Follow Me-white?style=flat&logo=twitter&logoColor=blue&link=https://twitter.com/gatere_mark)](https://twitter.com/gatere_mark"/>
-</a>
-   
-   <br>
-   <br>
-   
-<a href="https://devlibrary.withgoogle.com/authors/gateremark" target="_blank">
-<img width=20% height=40% src="https://img.shields.io/badge/-Blog Posts-black?style=flat&logo=medium&logoColor=white&link=https://devlibrary.withgoogle.com/authors/gateremark)](https://devlibrary.withgoogle.com/authors/gateremark"/>
-   </a>
-   
-   <br>
-   
-   <a href="mailto:mark5gatere@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
-   
-<a href="https://wa.me/+254757826724?text=Hey%20gateremark,%20I%20got%20your%20contact%20from%20GitHub.%20Looking%20forward%20to%20connecting%20with%20you." target="_blank"><img src="https://img.shields.io/badge/whatsapp-%4fce5d.svg?&style=flat&logo=whatsapp&logoColor=white" /></a>
-
-
-<!--
-<div align=center>
-   <a href="https://github.com/gateremark">
-   <img align="center" alt="Footer" width=100% src="static/footer.svg"/>
-</div> -->
-
-
