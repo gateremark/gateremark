@@ -64,12 +64,12 @@
 
 <p>
   <a href="https://gateremark.vercel.app/" target="_blank">
-<img width=30% height=60% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Monzo&style=flat&up_message=Live&url=https%3A%2F%2Fgateremark.vercel.app/" />
+<img width=30% height=60% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Portfolio&logo=Monzo&style=flat&up_message=Live&url=https%3A%2F%2Fgateremark.vercel.app/" />
 </a>
    
    <br>
    <br>
    
-<a href="https://www.linkedin.com/in/gateremark/" target="_blank">
+<!-- <a href="https://www.linkedin.com/in/gateremark/" target="_blank">
 <img width=20% height=40% src="https://img.shields.io/badge/Connect With Me-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gateremark/)](https://www.linkedin.com/in/gateremark/"/>
-</a>
+</a> -->
