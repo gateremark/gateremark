@@ -71,9 +71,8 @@
    <br>
    <br>
 
- ## <img src="static/statsgif.webp" width="35"> <b> My Reading Stats </b>
-   
 <div align="left">
+ ## <img src="static/statsgif.webp" width="35"> <b> My Reading Stats </b>
   <a href="https://app.daily.dev/gateremark"><img src="https://api.daily.dev/devcards/1c1074867be2480781f1760ac7fe21a0.png?r=4xr" width="200" alt="Mark Gatere's Dev Card"/></a>
 </div>
 <!-- <a href="https://www.linkedin.com/in/gateremark/" target="_blank">
