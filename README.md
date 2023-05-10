@@ -7,7 +7,7 @@
 </div>
 
 <img src="static/codegif.webp" width ="30">
-<strong align="left">Languages and Tools - #foreverlearner:</strong>
+<h3 align="left">Languages and Tools - #foreverlearner:</h3>
 
 <p align="left">
      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
