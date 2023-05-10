@@ -73,8 +73,8 @@
 
  ## <img src="static/statsgif.webp" width="35"> <b> My Reading Stats </b>
    
-<div align="center">
-  <a href="https://app.daily.dev/gateremark"><img src="https://api.daily.dev/devcards/1c1074867be2480781f1760ac7fe21a0.png?r=4xr" width="400" alt="Mark Gatere's Dev Card"/></a>
+<div align="left">
+  <a href="https://app.daily.dev/gateremark"><img src="https://api.daily.dev/devcards/1c1074867be2480781f1760ac7fe21a0.png?r=4xr" width="200" alt="Mark Gatere's Dev Card"/></a>
 </div>
 <!-- <a href="https://www.linkedin.com/in/gateremark/" target="_blank">
 <img width=20% height=40% src="https://img.shields.io/badge/Connect With Me-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gateremark/)](https://www.linkedin.com/in/gateremark/"/>
