@@ -6,7 +6,7 @@
    </a>
 </div>
 
-<img src="codegif.webp" width ="25">
+<img src="static/codegif.webp" width ="25">
 <h3 align="left">Languages and Tools - #foreverlearner:</h3>
 
 <p align="left">
