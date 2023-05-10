@@ -71,6 +71,7 @@
    <br>
    <br>
    
+  <img src="static/statsgif.webp" width="35"><b> My Reading Stats </b>
 <!-- <a href="https://www.linkedin.com/in/gateremark/" target="_blank">
 <img width=20% height=40% src="https://img.shields.io/badge/Connect With Me-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gateremark/)](https://www.linkedin.com/in/gateremark/"/>
 </a> -->
