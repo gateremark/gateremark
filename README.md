@@ -70,8 +70,14 @@
    
    <br>
    <br>
-   
-  <img src="static/statsgif.webp" width="35"><b> My Reading Stats </b>
+<div align=center>
+   <a href="https://github.com/gateremark">
+   <img height=30 width=100% src="static/divider.gif">
+   </a>
+</div>
+
+
+  <img src="static/statsgif.webp" width="35"><h3> My Reading Stats </h3>
 <!-- <a href="https://www.linkedin.com/in/gateremark/" target="_blank">
 <img width=20% height=40% src="https://img.shields.io/badge/Connect With Me-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gateremark/)](https://www.linkedin.com/in/gateremark/"/>
 </a> -->
