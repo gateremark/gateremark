@@ -6,8 +6,7 @@
    </a>
 </div>
 
-<img src="static/codegif.webp" width ="25">
-<h3 align="left">Languages and Tools - #foreverlearner:</h3>
+<h3 align="left"><img src="static/codegif.webp" width ="25"> Languages and Tools - #foreverlearner:</h3>
 
 <p align="left">
      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
