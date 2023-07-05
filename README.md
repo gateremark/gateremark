@@ -63,8 +63,9 @@
 <img align="right" width=40% alt="Github" src="static/github.gif">
 </a>
 <br> -->
-<img src="static/statsgif.webp" width="35">
+
   <a href="https://gateremark.vercel.app/" target="_blank">
+   <img src="static/statsgif.webp" width="35">
 <img width=30% height=60% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Portfolio&logo=Monzo&style=flat&up_message=Live&url=https%3A%2F%2Fgateremark.vercel.app/" />
 </a>
    
