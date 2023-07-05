@@ -63,8 +63,7 @@
 <img align="right" width=40% alt="Github" src="static/github.gif">
 </a>
 <br> -->
-
-<p>
+<img src="static/statsgif.webp" width="35">
   <a href="https://gateremark.vercel.app/" target="_blank">
 <img width=30% height=60% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Portfolio&logo=Monzo&style=flat&up_message=Live&url=https%3A%2F%2Fgateremark.vercel.app/" />
 </a>
@@ -77,11 +76,11 @@
    <img height=10 width=100% src="static/divider.gif">
    </a>
 </div> -->
-
+<!--
  ## <img src="static/statsgif.webp" width="35"> <b> My Reading Stats </b>
 <div align="left">
   <a href="https://app.daily.dev/gateremark"><img src="https://api.daily.dev/devcards/1c1074867be2480781f1760ac7fe21a0.png?r=4xr" width="300" alt="Mark Gatere's Dev Card"/></a>
-</div>
+</div>  -->
 <!-- <a href="https://www.linkedin.com/in/gateremark/" target="_blank">
 <img width=20% height=40% src="https://img.shields.io/badge/Connect With Me-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gateremark/)](https://www.linkedin.com/in/gateremark/"/>
 </a> -->
