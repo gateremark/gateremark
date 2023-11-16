@@ -14,6 +14,7 @@ const gateremark = developer {
     links {
         LinkedIn = "Mark Gatere"
         X (Twitter) = "gatere_mark"
+        Portfolio = "bit.ly/gatere"
     }
 }
 
