@@ -3,3 +3,18 @@
 <a href="https://bit.ly/gatere">
 <img src="static/codegif.webp" width ="30">
 </a>
+
+```javascript
+const gateremark = developer {
+    about {
+        name = "Mark Gatere"
+        role = Front-End Developer
+    }
+    tech("JavaScript", "Typescript", "Python")
+    links {
+        LinkedIn = "Mark Gatere"
+        X (Twitter) = "gatere_mark"
+    }
+}
+
+```
