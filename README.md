@@ -10,7 +10,7 @@ const gateremark = developer {
         name = "Mark Gatere"
         role = Front-End Developer
     }
-    tech("JavaScript", "Typescript", "Python")
+    tech ("JavaScript", "Typescript", "Python")
     links {
         LinkedIn = "Mark Gatere"
         X (Twitter) = "gatere_mark"
