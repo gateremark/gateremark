@@ -4,6 +4,8 @@
 <img src="static/codegif.webp" width ="30">
 </a>
 
+<!--
+
 ```javascript
 const gateremark = developer {
     about {
@@ -19,3 +21,5 @@ const gateremark = developer {
 }
 
 ```
+
+-->
